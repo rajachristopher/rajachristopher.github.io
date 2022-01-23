@@ -34,13 +34,19 @@ OVERVIEW :
 Work Experience:
 
 • HCL Technologies as Lead Engineer from Nov,2021 - Present
+
 • Apexon as Senior RPA Developer from Jun,2018 - Nov,2021
+
 • Avasoft Inc as RPA Developer from Jan,2018 - Jun,2018
+
 • Learning Courses (Core - Java, Manual Testing, SQL, UiPath and BluePrism) from Jan,2017 - Dec,2017
+
 • Sutherland as Amazon Process Consultant from July,2016 - Dec,2016
 
 Education:
 
 DMI College of Engineering
+
 Anna University
+
 B.E., Electronics and Communication Engineering (2012- 2016)
