@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   
   <p align='left'>
-  <a href="https://www.uipath.com">img src="/images.png?raw=true" alt="html" width="200" height="120"></a>
+  <img src="/images.png?raw=true" alt="html" width="200" height="120">
+  <a href="https://www.uipath.com">UiPath></a>
   </p>
 theme: jekyll-theme-minimal
