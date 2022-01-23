@@ -1,4 +1,10 @@
-# rajachristopher.github.io
+title: Raja Christopher
+logo: "/profile.png?raw=true"
+description: >
+Lead Engineer
+<br><br>
+<a href="mailto:rajachris27@gmail.com">rajachris27@gmail.com </a>
+<br>
 
 OVERVIEW :
 
