@@ -10,5 +10,5 @@ description: >
   <img src="/images.png?raw=true" alt="html" width="170" height="100">
   <br>
   <a href="https://www.uipath.com">RPA|UiPath</a>
-  </p>
+  <br></p>
 theme: jekyll-theme-minimal
