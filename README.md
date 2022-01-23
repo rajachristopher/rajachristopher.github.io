@@ -1,5 +1,6 @@
 
-OVERVIEW :
+Overview
+--------
 
 •	Technically sophisticated professional with totally 5 years of experience and nearly 4.5 years of experience in RPA Development using UiPath Environment.
 
@@ -23,7 +24,10 @@ OVERVIEW :
 
 •	Preparing the design document & user manual for the automation process and the usage of BOT’s.
 
-Work Experience:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Work Experience
+---------------
 
 • HCL Technologies as Lead Engineer from Nov,2021 - Present
 
@@ -35,10 +39,15 @@ Work Experience:
 
 • Sutherland as Amazon Process Consultant from July,2016 - Dec,2016
 
-Education:
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Education
+---------
 
 DMI College of Engineering
 
 Anna University
 
 B.E., Electronics and Communication Engineering (2012- 2016)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
