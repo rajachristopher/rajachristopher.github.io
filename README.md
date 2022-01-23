@@ -6,6 +6,7 @@ Lead Engineer
 <a href="mailto:rajachris27@gmail.com">rajachris27@gmail.com </a>
 <br>
 
+
 OVERVIEW :
 
 •	Technically sophisticated professional with totally 5 years of experience and nearly 4.5 years of experience in RPA Development using UiPath Environment.
@@ -14,7 +15,7 @@ OVERVIEW :
 
 •	Implemented End to End Robotic Process Automation (RPA) using UiPath by following the goal “A Robot for Every Person – UiPath”.
 
-•	Define  Design  Develop  Deploy 
+•	Define • Design • Develop • Deploy 
 
 •	Created end to end automation solutions for clients as per requirement which involves feasibility study, designing architecture, development, testing and deployment of             automation processes.
 
@@ -29,3 +30,17 @@ OVERVIEW :
 •	Strong Experience in using UiPath’s Credential Manager (Windows, Assets, Configured Files) for maintaining, securing and retrieving the user credentials.
 
 •	Preparing the design document & user manual for the automation process and the usage of BOT’s.
+
+Work Experience:
+
+• HCL Technologies as Lead Engineer from Nov,2021 - Present
+• Apexon as Senior RPA Developer from Jun,2018 - Nov,2021
+• Avasoft Inc as RPA Developer from Jan,2018 - Jun,2018
+• Learning Courses (Core - Java, Manual Testing, SQL, UiPath and BluePrism) from Jan,2017 - Dec,2017
+• Sutherland as Amazon Process Consultant from July,2016 - Dec,2016
+
+Education:
+
+DMI College of Engineering
+Anna University
+B.E., Electronics and Communication Engineering (2012- 2016)
