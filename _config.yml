@@ -9,6 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   
   <p align='left'>
-  <img src="/images.png?raw=true" alt="html" width="200" height="100">
+  <img src="/images.png?raw=true" alt="html" width="200" height="120">
   </p>
 theme: jekyll-theme-minimal
