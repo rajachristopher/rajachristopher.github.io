@@ -7,4 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/raja-christopher-s-%E2%9C%85-192312100/">LinkedIn Profile</a>
   <br>
+  
+  <p align='left'>
+  <img src="https://commons.wikimedia.org/wiki/File:UiPath_Logo.png" alt="html" width="40" height="40">
+  </p>
 theme: jekyll-theme-minimal
