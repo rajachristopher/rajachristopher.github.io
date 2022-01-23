@@ -44,10 +44,10 @@ Work Experience
 Education
 ---------
 
-DMI College of Engineering
+• DMI College of Engineering
 
-Anna University
+• Anna University
 
-B.E., Electronics and Communication Engineering (2012- 2016)
+• B.E., Electronics and Communication Engineering (2012- 2016)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
