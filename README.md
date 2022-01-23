@@ -2,6 +2,8 @@
 Overview
 --------
 
+Experienced Robotic Process Automation Engineer👨🏻‍💻 with a demonstrated history of working in the information technology and services industry 💼. Skilled in RPA Technology - Automating the Existing Processes🕹, Identifying🧐 and Analysing🔎 the Business Needs🎯, Customer Service📞, Microsoft Office💻 and Logical Thinker🧩. Having Strong engineering professional👨🏻‍🎓with a Bachelor of Engineering (BE) focused in Electronics and Communications Engineering.
+
 •	Technically sophisticated professional with totally 5 years of experience and nearly 4.5 years of experience in RPA Development using UiPath Environment.
 
 •	Created RPA structure and team along with production support, designed and developed RPA solutions to accelerate Business processes.
