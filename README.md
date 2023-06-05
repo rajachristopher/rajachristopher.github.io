@@ -31,7 +31,7 @@ Experienced Robotic Process Automation Engineer👨🏻‍💻 with a demonstrat
 Work & Learning Experiences
 --------------------------
 
-• HCL Technologies as Lead Engineer from Nov,2021 - Present
+• HCL Technologies as Associate Manager from Nov,2021 - Present
 
 • Apexon as Senior RPA Developer from Jun,2018 - Nov,2021
 
