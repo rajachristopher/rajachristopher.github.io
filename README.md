@@ -4,7 +4,7 @@ Overview
 
 Experienced Robotic Process Automation Engineer👨🏻‍💻 with a demonstrated history of working in the information technology and services industry 💼. Skilled in RPA Technology - Automating the Existing Processes🕹, Identifying🧐 and Analysing🔎 the Business Needs🎯, Customer Service📞, Microsoft Office💻 and Logical Thinker🧩. Having Strong engineering professional👨🏻‍🎓with a Bachelor of Engineering (BE) focused in Electronics and Communications Engineering.
 
-•	Technically sophisticated professional with totally 6 years of experience in RPA Development using UiPath Environment.
+•	Technically sophisticated professional with totally 6.5 years of experience in RPA Development using UiPath Environment.
 
 •	Created RPA structure and team along with production support, designed and developed RPA solutions to accelerate Business processes.
 
@@ -31,11 +31,11 @@ Experienced Robotic Process Automation Engineer👨🏻‍💻 with a demonstrat
 Work & Learning Experiences
 --------------------------
 
-• HCL Technologies as Associate Manager from Nov,2021 - Present
+• HCL Technologies as Lead Engineer and Associate Manager from Nov,2021 - Present
 
-• Apexon as Senior RPA Developer from Jun,2018 - Nov,2021
+• Apexon as RPA Developer and Senior RPA Developer from Jun,2018 - Nov,2021
 
-• Avasoft Inc as RPA Developer from Jan,2018 - Jun,2018
+• Avasoft Inc as Trainee RPA Developer from Jan,2018 - Jun,2018
 
 • Learning Courses (Core - Java, Manual Testing, SQL, UiPath and BluePrism) from Jan,2017 - Dec,2017
 
