@@ -10,6 +10,6 @@ description: >
   <img src="/images.png?raw=true" alt="html" width="170" height="100">
   <br><br><br>
   <a href="https://www.uipath.com">RPA|UiPath</a>
-  <br><br><br>
+  <br>
   </p>
 theme: jekyll-theme-minimal
