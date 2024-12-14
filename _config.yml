@@ -1,14 +1,15 @@
 logo: "/1623072774562.png?raw=true"
 title: Raja Christopher S
 description: >
-  <br>Solution Architect at WonderBotz.<br>
+  <br>Solution Architect at WonderBotz<br>
   <br><br>
   <a href="mailto:rajachris27@gmail.com">rajachris27@gmail.com </a>
+  <br>
+  <a href="https://www.uipath.com">RPA|UiPath</a>
+  <br>
   <br>
   
   <p align='left'>
   <img src="/images.png?raw=true" alt="html" width="170" height="100">
-  <br>
-  <a href="https://www.uipath.com">RPA|UiPath</a>
-  <br></p>
+  </p>
 theme: jekyll-theme-minimal
