@@ -28,7 +28,7 @@ Experienced Robotic Process Automation Engineer👨🏻‍💻 with a demonstrat
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Work & Learning Experiences
+Work Experiences
 --------------------------
 
 • WonderBotz as Solution Architect from Aug,2024 - Present
